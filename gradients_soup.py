@@ -104,4 +104,3 @@ for i in range(1, num_gradients + 1):
     gradient.save(filename)
 
 print("Tada.. your soup has been made, enjoy :)")
-1
