@@ -103,4 +103,4 @@ for i in range(1, num_gradients + 1):
     filename = f"gradients/soup_{i}.png"
     gradient.save(filename)
 
-print("Tada.. your soup has been made, enjoy :)")
+print("Tada.. your soup is ready! enjoy :)")
